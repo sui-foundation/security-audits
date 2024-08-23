@@ -1,7 +1,7 @@
 # Security Audits
 
-| Date           | Auditor          | Title                                                                                                                                                                                                  |
-| -------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Date           | Auditor          | Title                                                                                                                                           |
+| -------------- | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2022-10-06     | Halborn          | [Sui TypeScript SDK](docs/Mysten_Labs_Sui_TypeScript_SDK_Security_Audit_Report_Halborn_Final.pdf)                                               |
 | 2022-10-14     | Halborn          | [Sui Adapter & Verifier](docs/MystenLabs_Adapter_Verifier_L1_Security_Audit_Report_Halborn_Final.pdf)                                           |
 | 2022-10-31     | Halborn          | [Sui Wallet](docs/MystenLabs_Sui_Wallet_WebApp_Pentest_Report_Halborn_Final.pdf)                                                                |
@@ -22,3 +22,4 @@
 | 2023-09-11     | zkSecurity       | [zkLogin Circuits and Ceremony](docs/zksecurity_zklogin-circuits.pdf)                                                                           |
 | 2023-10-09     | Blaize Security  | [Rust MultiSig SDK Audit](docs/MystenLabs-Rust-Multisig-audit-report-%5B9-Oct-2023%5D.pdf)                                                      |
 | 2023-10-11     | Critical Section | [Sui Wallet (zkLogin Components)](docs/sui_wallet_zklogin_update_H223_review_v_0_9.pdf)                                                         |
+| 2024-08-23     | OtterSec         | [Deepbook v3](docs/mysten_deepbook_audit_final.pdf)                                                                                             |
