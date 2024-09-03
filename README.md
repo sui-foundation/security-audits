@@ -22,6 +22,7 @@
 | 2023-09-11     | zkSecurity       | [zkLogin Circuits and Ceremony](docs/zksecurity_zklogin-circuits.pdf)                                                                           |
 | 2023-10-09     | Blaize Security  | [Rust MultiSig SDK Audit](docs/MystenLabs-Rust-Multisig-audit-report-%5B9-Oct-2023%5D.pdf)                                                      |
 | 2023-10-11     | Critical Section | [Sui Wallet (zkLogin Components)](docs/sui_wallet_zklogin_update_H223_review_v_0_9.pdf)                                                         |
+| 2023-12-10     | CommonPrefix     | [DKG](docs/dkg-tbls.pdf)                                                                                                                        |
 | 2024-04-17     | OtterSec         | [Sui Bridge v1](docs/Sui_bridge_v1_OtterSec.pdf)                                                                                                |
 | 2024-04-29     | Zellic           | [Sui Bridge v1](docs/Sui_Bridge_v1_Zellic.pdf)                                                                                                  |
 | 2024-08-23     | OtterSec         | [Deepbook v3](docs/mysten_deepbook_audit_final.pdf)                                                                                             |
