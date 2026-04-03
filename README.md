@@ -26,3 +26,8 @@
 | 2024-04-17     | OtterSec         | [Sui Bridge v1](docs/Sui_bridge_v1_OtterSec.pdf)                                                                                                |
 | 2024-04-29     | Zellic           | [Sui Bridge v1](docs/Sui_Bridge_v1_Zellic.pdf)                                                                                                  |
 | 2024-08-23     | OtterSec         | [Deepbook v3](docs/mysten_deepbook_audit_final.pdf)                                                                                             |
+| 2025-03-03     | OtterSec         | [Walrus Contracts](docs/mysten_walrus_contracts_audit_final.pdf)                                                                                |
+| 2025-07-24     | OtterSec         | [Move VM](docs/mysten_move_vm_audit_final.pdf)                                                                                                  |
+| 2025-10-30     | OtterSec         | [Sui Adapter](docs/mysten_sui_vm_audit_final.pdf)                                                                                               |
+| 2025-11-12     | Zellic           | [DeepBook Margin](docs/Deepbook%20Margin%20-%20Zellic%20Audit%20Report.pdf)                                                                     |
+| 2025-12-09     | Zellic           | [VM Rewrite](docs/VM%20Rewrite%20-%20Zellic%20Audit%20Report.pdf)                                                                               |
